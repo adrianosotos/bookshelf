@@ -1,0 +1,13 @@
+.header {
+	background: $dark-green;
+	color: white;
+	padding: $xs-size 0;
+}
+
+.header__title {
+	font-weight: 200;
+	font-family: 'Gloria Hallelujah', cursive;
+	h1 {
+		margin-top: 0;
+	}
+}

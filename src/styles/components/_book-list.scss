@@ -1,0 +1,19 @@
+.book-list {
+	background: $dark-grey;
+	text-align: left;
+	margin-bottom: 300px;
+}
+
+.book-list__content {
+	margin: 0 auto;
+	max-width: 100%;
+	width: 500px;
+}
+
+.book-list__title {
+	background: $darker-grey;
+	color: white;
+	font-family: 'Encode Sans Condensed', sans-serif;
+	margin: 50px 0 2px 0px;
+	text-align: center;
+}
